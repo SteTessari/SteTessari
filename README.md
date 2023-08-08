@@ -40,16 +40,16 @@ In the overview below you will find my most recent work experience:
         <a href="https://sifat.com.br/" target="_blank"><strong>Sifat Sistemas</strong></a> • Full-time<br>
         Languages ​​& Technologies:<br>  <code>Java, Spring boot, hibernate, microservices, API Rest</code>
         <br><br> 
-        Featured projects: <a href="https://gitlab.com/stephanietessari/money-mind" target="_blank">Money Mind</a>
+        Featured projects: <a href="https://github.com/SteTessari/money-mind" target="_blank">Money Mind</a>
     </div> 
 </div>
 
 <br> 
-
-<p align="left">
-  <a href="mailto:stephanie.tessari.santos@gmail.com" alt="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:stephanie.tessari.santos@gmail.com?subject=&body=" />
-  </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteTessari&hide=html&layout=compact&theme=default" alt="Top Languages Card">
+</a>
+<br> 
+<br> 
 
   <a href="https://www.linkedin.com/in/stephanie-tessare-86ba30192/" alt="LinkedIn">
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
