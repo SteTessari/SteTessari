@@ -1,7 +1,6 @@
 ```js
 import Developer from "stephanietessari";
 
-@Getter
 public class AboutMe extends Developer {
 
   private String name = "Stephanie Tessari dos Santos";
@@ -16,14 +15,12 @@ public class AboutMe extends Developer {
   ];
 }
 
-@Getter
 public class Skills extends Developer {
   private List<String> languages = ["Java and SQL"];
   private List<String> frameworks = ["Spring boot and hibernate"];
   private List<String> tools = ["Postman, Intellij, HeidiSQL, gitlab, Jira"];
 }
 
-@Getter
 public class ProfessionalExperience extends Developer {
   private List<String> experiences = [
       "Rest api development",
