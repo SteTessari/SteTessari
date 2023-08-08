@@ -1,12 +1,14 @@
 ```js
 import Developer from "stephanietessari";
 
-class AboutMe extends Developer {
-  name = "Stephanie Tessari dos Santos";
-  area = "software development";
-  work = "Sifat sistemas";
-  city = "São José do Rio Preto - SP, Brazil";
-  List<String> goals = [
+@Getter
+public class AboutMe extends Developer {
+
+  private String name = "Stephanie Tessari dos Santos";
+  private String area = "software development";
+  private String work = "Sifat sistemas";
+  private String city = "São José do Rio Preto - SP, Brazil";
+  private List<String> goals = [
     "Acquire new knowledge every day", 
     "Working in a company with agile methodologies",
     "Having the opportunity to travel working from home office",
@@ -14,14 +16,16 @@ class AboutMe extends Developer {
   ];
 }
 
-class Skills extends Developer {
-  List<String> languages = ["Java and SQL"];
-  List<String> frameworks = ["Spring boot and hibernate"];
-  List<String> tools = ["Postman, Intellij, HeidiSQL, gitlab, Jira"];
+@Getter
+public class Skills extends Developer {
+  private List<String> languages = ["Java and SQL"];
+  private List<String> frameworks = ["Spring boot and hibernate"];
+  private List<String> tools = ["Postman, Intellij, HeidiSQL, gitlab, Jira"];
 }
 
-class ProfessionalExperience extends Developer {
-  List<String> experiences = [
+@Getter
+public class ProfessionalExperience extends Developer {
+  private List<String> experiences = [
       "Rest api development",
       "Migration from monolithic system to microservices",
       "Elaboration of tasks using Jira"];
