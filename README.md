@@ -10,8 +10,8 @@ public class AboutMe extends Developer {
   private String city = "São José do Rio Preto - SP, Brazil";
   private List<String> goals = [
     "Acquire new knowledge every day", 
-    "Working in a company with agile methodologies",
-    "Having the opportunity to travel working from home office",
+    "Working in a company with agile methodologies like SCRUM",
+    "Having the opportunity to travel working home office",
     "Reaching the role of CTO"
   ];
 }
