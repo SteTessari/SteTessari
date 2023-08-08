@@ -1,7 +1,7 @@
 ```js
-import Desenvolvedor from "stephanietessari";
+import Developer from "stephanietessari";
 
-class AboutMe extends Desenvolvedor {
+class AboutMe extends Developer {
   name = "Stephanie Tessari dos Santos";
   area = "software development";
   work = "Sifat sistemas";
@@ -14,13 +14,13 @@ class AboutMe extends Desenvolvedor {
   ];
 }
 
-class Skills extends Desenvolvedor {
+class Skills extends Developer {
   List<String> languages = ["Java and SQL"];
   List<String> frameworks = ["Spring boot and hibernate"];
   List<String> tools = ["Postman, Intellij, HeidiSQL, gitlab, Jira"];
 }
 
-class ProfessionalExperience extends Desenvolvedor {
+class ProfessionalExperience extends Developer {
   List<String> experiences = [
       "Rest api development",
       "Migration from monolithic system to microservices",
