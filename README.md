@@ -77,22 +77,6 @@ public class AboutMe {
         }}
 }
 ```
-
-### Work experience
-
-In the overview below you will find my most recent work experience:
-
-<div style="display: flex; align-items: center; gap: 10px;">
-    <img src="https://media.licdn.com/dms/image/C4D0BAQGitHLxM1FJ6w/company-logo_200_200/0/1676561627584?e=1699488000&v=beta&t=0B6TzrSFq0H3F7cJE1KWf_ueyKoFBg2vk2zKxC8ZkHY" alt="Developer Image" width="100" height="100" />
-    <div>
-        <strong>Developer</strong><br>
-        <a href="https://sifat.com.br/" target="_blank"><strong>Sifat Sistemas</strong></a> • Full-time<br>
-        Languages ​​& Technologies:<br>  <code>Java, Spring boot, hibernate, microservices, API Rest</code>
-        <br><br> 
-        Featured projects: <a href="https://github.com/SteTessari/money-mind" target="_blank">Money Mind</a>
-    </div> 
-</div>
-
 <br> 
 <a href="https://github.com/Gurupreet">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SteTessari&theme=dracula&hide_langs_below=1" />
