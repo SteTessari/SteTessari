@@ -67,8 +67,6 @@ public class AboutMe {
         private List<String> skills;
         private List<String> professionalExperience;
 
-        // Getters and setters for personalInformation, skills, and professionalExperience
-
         @Override
         public String toString() {
             return "Personal Information: " + personalInformation +
