@@ -83,13 +83,6 @@ public class AboutMe {
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SteTessari&show_icons=true&theme=dracula&line_height=27" alt="**STEPHANIE TESSARI** github stats"/>
 </a>
-<br> 
-
-## Wakatime Dashboard
-
-Acompanhe o tempo gasto no desenvolvimento utilizando o Wakatime.
-
-[Link para o Dashboard do Wakatime](https://wakatime.com/dashboard)
 
 <br> 
 
